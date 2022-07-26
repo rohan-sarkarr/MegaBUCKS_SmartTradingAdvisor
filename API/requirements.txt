@@ -1,0 +1,8 @@
+flask
+numpy
+pandas
+pmdarima
+nsepy
+datetime
+sklearn
+gunicorn
